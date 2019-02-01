@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Hello World!</h1>
+        <h2>Say goodbye</h2>
     </body>
 </html>
